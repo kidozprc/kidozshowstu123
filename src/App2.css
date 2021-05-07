@@ -1,0 +1,91 @@
+.prc {
+    background-color: #e3e3e7;
+  }
+  
+  
+  .topnav {
+      background-color: #3151B9;
+      overflow: hidden;
+    }
+    
+    /* Style the links inside the navigation bar */
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      font-family: Arial;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      background-color: #3151B9;
+    }
+    
+    /* Change the color of links on hover */
+    .topnav a:hover {
+      background-color: #ddd;
+      color: #3151B9;
+    }
+    
+    /* Add a color to the active/current link */
+    .topnav a.active {
+      background-color: #319EB9;
+      color: white;
+    }
+    
+    .topnav b {
+      color: #f2f2f2;
+      text-align: center;
+      font-family: Arial;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      background-color: #3151B9;
+    }
+    
+    .topnav b.logo {
+      float: right;
+      font-size: 17px;
+    }
+    
+  .headertop {
+    float: center;
+      color: #f2f2f2;
+      text-align: center;
+      font-family: Arial;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 45px;
+      background-color: #7790e2;
+  }
+  
+  .datatop {
+    height: 70px;
+    color: black;
+    font-family: Arial;
+    background-color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 15px;
+  }
+
+.btn{
+  background-color: #3151B9;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.stu{
+  text-align: center;
+  background-color: rgb(184, 209, 255);
+  font-family: Arial;
+  font-size: 30px;
+}
+
+.getrotate{
+  transform: scaleY(-1);
+}
