@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App2.css';
 import DataList from './components/DataList'
 // import AddData from './components/AddData'
